@@ -1,1 +1,2 @@
-# waxom
+# waxom - hexagonal landing page.
+Open 
