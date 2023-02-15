@@ -1,2 +1,1 @@
-# waxom - hexagonal landing page.
-Open 
+# waxom - https://danavoit.github.io/waxom/ 
